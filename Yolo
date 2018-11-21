@@ -1,0 +1,11 @@
+<DOCTYPE html>
+<html>
+   <head>
+        <title>
+        <meta charset=“UTF-8”  
+   </head>
+   <body>
+         <p title=“just random text” style=“color:red;”> Hello World
+         </p>
+   </body>
+</html>
